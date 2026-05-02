@@ -1,3 +1,14 @@
+## ANNA RIVERS
+
+### About Me
+~~~
+. Name: Anna Rivers
+. Pronouns: She/They
+. Age: 18
+. Typical Languages: C/C++, Lua, GLSL
+. Nationality: Australian
+~~~
+
 Support Anna on ko-fi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H31UCZOJ)
