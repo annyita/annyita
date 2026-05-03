@@ -10,9 +10,21 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/annyita/annyita/blob/main/assets/youtube.png" width="100" alt="youtube"></td>
-    <td><img src="https://github.com/annyita/annyita/blob/main/assets/pronounspage.jpg" width="100" alt="pronounspage.jpg"></td>
-    <td><img src="https://github.com/annyita/annyita/blob/main/assets/Logo_of_Twitter.svg.png" width="100" alt="twitter"></td>
+    <td>
+      <a href="https://www.youtube.com/@0opsyt">
+        <img src="https://github.com/annyita/annyita/blob/main/assets/youtube.png" width="100" alt="youtube">
+      </a>
+    </td>
+    <td>
+      <a href="https://en.pronouns.page/@AnnaRivers">
+        <img src="https://github.com/annyita/annyita/blob/main/assets/pronounspage.jpg" width="100" alt="pronounspage.jpg">
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/annysideup">
+        <img src="https://github.com/annyita/annyita/blob/main/assets/Logo_of_Twitter.svg.png" width="100" alt="twitter">
+      </a>
+    </td>
   </tr>
 </table>
 
