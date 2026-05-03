@@ -8,9 +8,8 @@
 . Nationality: Australian
 ~~~
 
-Support Anna on ko-fi:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H31UCZOJ)
+---
+## Socials:
 
 <table>
   <tr>
@@ -31,6 +30,11 @@ Support Anna on ko-fi:
     </td>
   </tr>
 </table>
+
+## Support Anna on ko-fi:
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H31UCZOJ)
 
 <!--
 **annyita/annyita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
