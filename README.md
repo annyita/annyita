@@ -2,13 +2,28 @@
 
 ## About Me:
 
+Hello,  I'm anna, my pronouns are She/They, im am a 18 year old transgirl! 🏳️‍⚧️
+I like game engine development, graphics programming, gaming, future bass music, vocaloid music
+and several different types of art.
+
 ~~~
 . Name: Anna Rivers
-. Pronouns: She/They
+. Pronouns: She/They 
 . Age: 18
 . Typical Languages: C/C++, Lua, GLSL
 . Nationality: Australian
 ~~~
+
+---
+## main projects:
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/annyita/Floura-Engine">
+        <img src="https://github.com/annyita/Floura-Engine/blob/master/Assets/Icons/Icon.png" width="50" alt="Floura Engine">
+      </a>
+    </td>
+</table>
 
 ---
 ## other work:
