@@ -8,6 +8,14 @@
 . Nationality: Australian
 ~~~
 
+<table>
+  <tr>
+    <td><img src="https://github.com/annyita/annyita/blob/main/assets/youtube.png" width="100" alt="youtube"></td>
+    <td><img src="https://github.com/annyita/annyita/blob/main/assets/pronounspage.jpg" width="100" alt="pronounspage.jpg"></td>
+    <td><img src="https://github.com/annyita/annyita/blob/main/assets/Logo_of_Twitter.svg.png" width="100" alt="twitter"></td>
+  </tr>
+</table>
+
 Support Anna on ko-fi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H31UCZOJ)
