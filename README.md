@@ -11,6 +11,10 @@
 ~~~
 
 ---
+## other work:
+- 3D MODELS: https://sketchfab.com/AnnaSideUp
+
+---
 ## Socials:
 
 <table>
