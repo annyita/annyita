@@ -1,6 +1,5 @@
-## ANNA RIVERS
+[![ANNA](https://github.com/annyita/annyita/blob/main/assets/name.png)](https://en.pronouns.page/@AnnaRivers)
 
-### About Me
 ~~~
 . Name: Anna Rivers
 . Pronouns: She/They
