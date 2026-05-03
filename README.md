@@ -1,5 +1,7 @@
 <img src="https://github.com/annyita/annyita/blob/main/assets/name.png" width="500" alt="name">
 
+## About Me:
+
 ~~~
 . Name: Anna Rivers
 . Pronouns: She/They
