@@ -2,14 +2,14 @@
 
 ## About Me:
 
-Hello,  I'm anna, my pronouns are She/They, im am a 18 year old transgirl! 🏳️‍⚧️
+Hello,  I'm anna, my pronouns are She/They, im am a 19 year old transgirl! 🏳️‍⚧️
 I like game engine development, graphics programming, gaming, future bass music, vocaloid music
 and several different types of art.
 
 ~~~
 . Name: Anna Rivers
 . Pronouns: She/They 
-. Age: 18
+. Age: 19
 . Typical Languages: C/C++, Lua, GLSL
 . Nationality: Australian
 ~~~
