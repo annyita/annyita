@@ -23,6 +23,11 @@ and several different types of art.
         <img src="https://github.com/annyita/Floura-Engine/blob/master/Assets/Icons/Icon.png" width="50" alt="Floura Engine">
       </a>
     </td>
+        <td>
+      <a href="https://github.com/annyita/Riverside-Engine">
+        <img src="https://github.com/annyita/Riverside-Engine/blob/master/Asset/Dependants/icon.png" width="50" alt="Riverside Engine">
+      </a>
+    </td>
 </table>
 
 ---
